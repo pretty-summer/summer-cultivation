@@ -21,6 +21,7 @@
 	<modules>
 		<module>design-mode</module>
 		<module>demo</module>
+		<module>data-structure</module>
 	</modules>
 	<dependencyManagement>
 		<dependencies>
