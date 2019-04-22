@@ -3,6 +3,13 @@ package com.summer.datastructure.stack;
 import com.summer.datastructure.exception.StackEmpityException;
 import com.summer.datastructure.exception.StackFullException;
 
+/**
+ * 栈：先进后出
+ *
+ * 1可用于数据反转
+ *
+ * 缺点：，还没实现动态扩容
+ */
 public class SummerSimpleStack implements SummerStack{
     //初始值为-1  因为数组下表从0开始
     private int top=-1;
