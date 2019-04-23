@@ -6,7 +6,7 @@ import com.summer.datastructure.exception.StackFullException;
 /**
  * 栈：先进后出
  *
- * 1可用于数据反转
+ * 1可用于数据倒置
  *
  * 缺点：，还没实现动态扩容
  */
